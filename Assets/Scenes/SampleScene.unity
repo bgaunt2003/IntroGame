@@ -878,7 +878,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 1
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -1680,8 +1680,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveValue: {x: 0, y: 0}
   speed: 500
-  scoreText: {fileID: 0}
-  winText: {fileID: 0}
+  scoreText: {fileID: 1339813606}
+  winText: {fileID: 271900130}
 --- !u!54 &1669203572
 Rigidbody:
   m_ObjectHideFlags: 0
